@@ -10,3 +10,6 @@ Pizza Hunt lets users connect with each other based on their love of pizza. In P
 
 ## GitHub Repo
 https://github.com/minhhap/pizza-hunt
+
+## Deployed Link
+https://minhha-pizza-hunt.herokuapp.com/
